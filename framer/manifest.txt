@@ -56,6 +56,12 @@ images/cursors/touch.png
 images/cursors/touch-active@2x.png
 images/cursors/touch-active.png
 design/images/UGJIl07sIUyedYQOa4E9T0Cs.png
+code/fonts/hurmegeosans-no2-700.woff2
+code/fonts/hurmegeosans-no2-700.woff
+code/fonts/hurmegeosans-no2-600.woff2
+code/fonts/hurmegeosans-no2-600.woff
+code/fonts/hurmegeosans-no2-400.woff2
+code/fonts/hurmegeosans-no2-400.woff
 build/style.css
 build/standalone.js
 build/react.development.js
